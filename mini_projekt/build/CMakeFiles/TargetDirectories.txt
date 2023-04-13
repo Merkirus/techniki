@@ -1,0 +1,3 @@
+/Users/frafau/Documents/C/Techniki/mini_projekt/build/CMakeFiles/main.dir
+/Users/frafau/Documents/C/Techniki/mini_projekt/build/CMakeFiles/edit_cache.dir
+/Users/frafau/Documents/C/Techniki/mini_projekt/build/CMakeFiles/rebuild_cache.dir
